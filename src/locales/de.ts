@@ -10,7 +10,7 @@ export const deConfig: NLPLanguageConfig = {
 	chronoLocale: "de", // chrono-node has partial German support
 
 	dateTriggers: {
-		due: ["fällig", "termin", "abgabe", "deadline", "bis zum", "bis"],
+		due: ["fällig", "termin", "abgabe", "deadline", "bis zum", "bis", "frist"],
 		scheduled: ["geplant für", "geplant am", "beginnen am", "anfangen am", "arbeiten an", "am"],
 	},
 
